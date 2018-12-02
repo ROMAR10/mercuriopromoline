@@ -1,2 +1,1 @@
-# MercurioPromoLine
-School Project
+This is only a school projetct to make a "real" fake website.
