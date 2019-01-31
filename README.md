@@ -1,1 +1,1 @@
-This is only a school projetct to make a "real" fake website.
+School projetct of a "real" fake website.
