@@ -1,1 +1,1 @@
-School projetct of a "real" fake website.
+School project of a "real" fake website.
